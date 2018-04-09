@@ -61,7 +61,7 @@ while True:
                 del a1
                 time1 = dist//v
                 time1 = int(time1)
-                time1 += 7
+                time1 += 10
                 count = 0
                 c+=1
                 a1 = tuple()
