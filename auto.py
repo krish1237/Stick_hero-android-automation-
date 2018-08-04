@@ -1,6 +1,5 @@
 import cv2
 import os
-import matplotlib.pyplot as plt
 import timeit
 import time
 def velocity(y,x):
